@@ -1,7 +1,7 @@
 # on-the-job
 
 ## Description
-This is a Mock website that has been setup. Hte website needs to be refactored to meet accesibility standards nad make us of s
+This is a Mock website that has been setup. Hte website needs to be refactored to meet accesibility standards nad make us of semantic HTML.
 ## Installation
 
 N/A
